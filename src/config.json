@@ -1,6 +1,6 @@
 {
-    "API_URL":"back-production-2af1.up.railway.app",
-    "APP_URL":"http://localhost:3000/",
-    "APP_CHECKER":"",
-    "APP_ID":""
+  "API_URL":"https://back-production-2af1.up.railway.app",
+  "APP_URL":"https://your-frontend-url.up.railway.app/",
+  "APP_CHECKER":"",
+  "APP_ID":""
 }
