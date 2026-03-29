@@ -1,5 +1,5 @@
 {
-    "API_URL":"http://localhost:5000",
+    "API_URL":"back-production-2af1.up.railway.app",
     "APP_URL":"http://localhost:3000/",
     "APP_CHECKER":"",
     "APP_ID":""
