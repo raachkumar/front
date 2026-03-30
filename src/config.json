@@ -1,6 +1,6 @@
 {
-  "API_URL":"https://back-production-c227.up.railway.app",
-  "APP_URL":"https://front-production-aeb9.up.railway.app",
+  "API_URL":"http://back-production-c227.up.railway.app",
+  "APP_URL":"http://front-production-aeb9.up.railway.app",
   "APP_CHECKER":"",
   "APP_ID":""
 }
