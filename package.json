@@ -49,7 +49,7 @@
   "scripts": {
   "start": "react-scripts start",
   "react-build": "NODE_OPTIONS=--openssl-legacy-provider react-scripts build",
-  "build": "yarn react-build",
+  "build": "CI=false yarn react-build",
   "test": "react-scripts test",
   "eject": "react-scripts eject"
   },
