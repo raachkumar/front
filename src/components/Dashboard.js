@@ -69,7 +69,7 @@ const Dashboard = ({location,currentRoute,currentRouteSet,authInfo})=>{
   const classes = useStyles();
   return(
     <>
-    <h2 class="soft-title">Accounter Center - SoftTask</h2>
+    <h2 class="soft-title">AACP PRECAST ERP</h2>
 
 
 
