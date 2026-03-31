@@ -31,11 +31,11 @@ function Copyright() {
   return (
     <Typography variant="body2" color="textSecondary" align="center" style={{textAlign:'center',fontWeight:'bold',color:'rgb(10 68 62)',fontStyle:'italic',
     fontSize: '14px'}}>
-      {'Developed By  '}
-      <Link color="inherit" target="_blank" href="http://soft-task.com" >
-        Soft Task Ltd.
+      {'Powered By  '}
+      <Link color="inherit" target="_blank" href="http://aacp.co.in" >
+        AACP PRECAST
       </Link>{' '}
-     - Hotline : 01749-508007
+   
     </Typography>
   );
 }
@@ -219,7 +219,7 @@ const SignIn = ()=> {
           <LockOutlinedIcon />
         </Avatar>
         <Typography component="h1" variant="h5">
-          Accounter Center - Soft Task Ltd.
+          AACP PRECAST ERP
         </Typography>
         <Collapse in={open}>
         <Alert
