@@ -91,7 +91,7 @@ const SignIn = ()=> {
   
 
   useEffect(()=>{
-    const socket = socketIOClient(API_URL);
+    const socket = socketIOClient("https://back-production-c227.up.railway.app");;
     
     socket.on('connect', function() {
      
