@@ -140,7 +140,7 @@ const SignIn = ()=> {
 
 
            if(APP_ID != 'lifetime'){
-              await axios.post(`${APP_CHECKER}/public/app-checker`,{
+              await axios.post(`${API_URL}/${APP_CHECKER}`,{
                 appId: APP_ID
               }).then(res=>{
               ajaxReqStatusSet(false)
