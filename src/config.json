@@ -1,5 +1,5 @@
 {
-  "API_URL":"https://back-production-c227.up.railway.app",
+  "API_URL":"https://back-production-c227.up.railway.app/api",
   "APP_URL":"https://front-production-aeb9.up.railway.app/",
   "APP_CHECKER":"public/app-checker",
   "APP_ID":"lifetime"
